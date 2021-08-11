@@ -1,0 +1,16 @@
+PODS:
+  - QuangFramework (1.0.0)
+
+DEPENDENCIES:
+  - QuangFramework (from `../Quang`)
+
+EXTERNAL SOURCES:
+  QuangFramework:
+    :path: "../Quang"
+
+SPEC CHECKSUMS:
+  QuangFramework: 521a26571cf5b2533823565601f1bd2470d5011d
+
+PODFILE CHECKSUM: 8ef9f4e7f5a0308584c376055fec03f85ffe587a
+
+COCOAPODS: 1.10.1
